@@ -9,5 +9,5 @@ Apart from English, it can exract text of other languages like chinese, japanese
   d) tkinter ----> to develop GUI<br />
   
  # Demo video:
- ![snap-easy2](https://user-images.githubusercontent.com/43297280/105633058-8084a900-5e7e-11eb-9bd7-0389c7bfb1f3.gif)
+![snap-easy (1)](https://user-images.githubusercontent.com/43297280/105633615-bd9e6a80-5e81-11eb-895d-f80a484e9e17.gif)
 
